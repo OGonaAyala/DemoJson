@@ -15,6 +15,24 @@
                         "number":4425896311
                          }
                      ]
-                    }
+                    },
+                    {
+                    "firstname":"Omar",
+                     "lastname":"Gaona",
+                     "contacType":
+                     [
+                         {
+                        "typeContact":"Personal"
+                         }
+                     ],
+                     "numberType":
+                     [
+                         {
+                        "typeNumber":"Celular",
+                        "number":4425896311
+                         }
+                     ]
+                    },
                 ]
+                
 }
