@@ -1,5 +1,6 @@
 {
   "contactos": [   {
+                    "id":1,
                     "firstname":"Jorge",
                      "lastname":"Garcia",
                      "contacType":
@@ -17,6 +18,7 @@
                      ]
                     },
                     {
+                    "id":2,
                     "firstname":"Omar",
                      "lastname":"Gaona",
                      "contacType":
@@ -32,7 +34,7 @@
                         "number":4425896311
                          }
                      ]
-                    },
+                    }
                 ]
                 
 }
