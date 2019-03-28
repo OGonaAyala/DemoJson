@@ -1,4 +1,4 @@
-"Personas":
+{"Personas":
         [
             {"firstname":"Jorge",
              "lastname":"Garcia",
@@ -32,3 +32,4 @@
                 "number":4425896311
                  }
              ]
+             }
